@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "830045849302",
+    "firebase_url": "https://vivacity2k23-default-rtdb.firebaseio.com",
+    "project_id": "vivacity2k23",
+    "storage_bucket": "vivacity2k23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830045849302:android:31dde1c609d22d7fe12b77",
+        "android_client_info": {
+          "package_name": "com.example.vivacity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830045849302-td0ds2qfi448ttm08i304st3f94uva7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl25d3ViKknplihpb3EDlENS0B1yewSAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830045849302-td0ds2qfi448ttm08i304st3f94uva7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830045849302:android:c5b0c5b7f331bc05e12b77",
+        "android_client_info": {
+          "package_name": "com.example.vivacity_2k23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830045849302-td0ds2qfi448ttm08i304st3f94uva7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl25d3ViKknplihpb3EDlENS0B1yewSAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830045849302-td0ds2qfi448ttm08i304st3f94uva7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830045849302:android:cf2abc3beb70eb88e12b77",
+        "android_client_info": {
+          "package_name": "com.fest.vivacity2k23"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830045849302-td0ds2qfi448ttm08i304st3f94uva7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl25d3ViKknplihpb3EDlENS0B1yewSAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830045849302-td0ds2qfi448ttm08i304st3f94uva7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
